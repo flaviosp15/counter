@@ -1,5 +1,7 @@
 # Counter
 
+I built this project to show a different count animation.
+
 ## 🛠️ Built With
 
 - ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
